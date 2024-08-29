@@ -1,7 +1,14 @@
 :root {
   --font-family: "Open Sans", sans-serif;
-  --text-color: #1a1a1a;
-  --primary-color: #fcf8f3;
+  --primary-color: #1a1a1a;
+  --text-color: #fcf8f3;
+  --hover-text-color: #ec2127;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  min-height: 86.5vh;
 }
 
 body {
@@ -12,5 +19,5 @@ body {
 }
 
 main {
-  padding: 2rem;
+  flex: 1;
 }

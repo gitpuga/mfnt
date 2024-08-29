@@ -1,0 +1,93 @@
+.hp--container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+.hp--title__container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 13%;
+  padding-bottom: 13%;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../public/media/11mos2017-big.jpg");
+  background-size: cover;
+  border: 1px solid #2d2d2d;
+}
+.hp--title,
+.hp--title__text {
+  text-align: center;
+  text-shadow: 0 8px 16px rgba(0, 0, 0, 1);
+}
+.hp--title {
+  font-size: 8rem;
+}
+.hp--title__text {
+  font-size: 2rem;
+}
+
+.hp--button__container {
+  width: 80%;
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+}
+.hp--button__text {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+.hp--button__title {
+  font-size: 2rem;
+}
+.hp--button__news {
+  background: linear-gradient(0deg, rgba(38, 0, 255, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../public/media/focus-ping-pong-london-olympics-1920x1080-wallpaper.jpg");
+}
+.hp--button__where {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(255, 0, 0, 0.5)),
+    url("../../public/media/1280px-TableTennisAt2004SummerOlympics-1.jpg");
+}
+.hp--button__teachers {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../public/media/sports_ping_pong_table_tennis__2560x1920_vehiclehi.com.jpg");
+}
+.hp--button__charts {
+  background: linear-gradient(0deg, rgba(38, 0, 255, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../public/media/Португалия.jpg");
+}
+.hp--button__news,
+.hp--button__where,
+.hp--button__teachers,
+.hp--button__charts {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-size: cover;
+  border-radius: 16px;
+  max-width: 30rem;
+  height: 20rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-shadow: 0 8px 16px rgba(0, 0, 0, 1);
+  border: 1px solid #2d2d2d;
+}
+.hp--button__news:hover,
+.hp--button__where:hover,
+.hp--button__teachers:hover,
+.hp--button__charts:hover {
+  transform: translateY(-2px);
+  transition: 0.2s;
+  box-shadow: 0 8px 16px rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+}

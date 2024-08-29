@@ -8,9 +8,10 @@ import AboutUsPage from "./pages/AboutUsPage";
 import DocumentsPage from "./pages/DocumentsPage";
 import CalendarPage from "./pages/CalendarPage";
 import ChartsPage from "./pages/ChartsPage";
-import NewsPage from "./pages/NewsPage";
 import WhereToPlayPage from "./pages/WhereToPlayPage";
-import MorePage from "./pages/MorePage";
+import MediaPage from "./pages/MediaPage";
+import ContactsPage from "./pages/ContactsPage";
+import NotFoundPage from "./pages/NotFoundPage";
 
 function App() {
   return (
@@ -21,13 +22,14 @@ function App() {
           <main>
             <Routes>
               <Route path="/" element={<HomePage />} />
+              <Route path="*" element={<NotFoundPage />} />
               <Route path="/about-us" element={<AboutUsPage />} />
-              <Route path="/documnets" element={<DocumentsPage />} />
+              <Route path="/documents" element={<DocumentsPage />} />
               <Route path="/calendar" element={<CalendarPage />} />
               <Route path="/charts" element={<ChartsPage />} />
-              <Route path="/news" element={<NewsPage />} />
               <Route path="/where-to-play" element={<WhereToPlayPage />} />
-              <Route path="/more" element={<MorePage />} />
+              <Route path="/media" element={<MediaPage />} />
+              <Route path="/contacts" element={<ContactsPage />} />
             </Routes>
           </main>
         </div>

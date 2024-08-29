@@ -1,0 +1,10 @@
+.nfp--container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20rem;
+  margin-bottom: 40cqmax;
+}
+
+.nfp--text {
+  text-align: center;
+}
