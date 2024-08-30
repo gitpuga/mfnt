@@ -8,9 +8,9 @@ const HomePage = () => {
   return (
     <div className="hp--container">
       <div className="hp--title__container">
-        <h1 className="hp--title">МФНТ</h1>
+        <h1 className="hp--title">мфнт</h1>
         <h2 className="hp--title__text">
-          Московская федерация настольного тенниса
+          московская федерация настольного тенниса
         </h2>
       </div>
       <div className="hp--button__container">
