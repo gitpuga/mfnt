@@ -15,25 +15,25 @@ const ChartsPage = () => {
       {
         col1: "6(5)",
         col2: "Воробьева Ольга",
-        col3: "1990",
+        col3: 1990,
         col4: 1770,
       },
       {
         col1: "7(6)",
         col2: "Носкова Яна",
-        col3: "1994",
+        col3: 1994,
         col4: 1768,
       },
       {
         col1: "13(12)",
         col2: "Маланина Мария",
-        col3: "1998",
+        col3: 1998,
         col4: 1729,
       },
       {
         col1: "18(17)",
         col2: "Фетюхина Маргарита",
-        col3: "1988",
+        col3: 1988,
         col4: 1722,
       },
       {
@@ -85,7 +85,7 @@ const ChartsPage = () => {
           },
           {
             Header: "Год рождения",
-            accessor: "сol3",
+            accessor: "col3",
           },
           {
             Header: "Рейтинг",
@@ -98,10 +98,29 @@ const ChartsPage = () => {
   );
 
   return (
-    <div className="table--container">
-      <h1 className="cp--title">Рейтинг</h1>
-      <h2 className="cp--title__text">Российский рейтинг спортсменов г. Москвы на 01.12.2019 г. </h2>
-      <Table columns={columns} data={data} />
+    <div className="cp--container">
+      <div className="cp--title__container">
+        <h1 className="cp--title">Рейтинг</h1>
+        <h2 className="cp--title__text">
+          Российский рейтинг спортсменов г. Москвы на 01.12.2019 г.
+        </h2>
+      </div>
+      <div className="cp--tables">
+        <div className="cp--tables__women">
+          <h1 className="cp--tables__title">женщины</h1>
+          <Table columns={columns} data={data} />
+          <Table columns={columns} data={data} />
+          <Table columns={columns} data={data} />
+          <Table columns={columns} data={data} />
+        </div>
+        <div className="cp--tables__men">
+          <h1 className="cp--tables__title">мужчины</h1>
+          <Table columns={columns} data={data} />
+          <Table columns={columns} data={data} />
+          <Table columns={columns} data={data} />
+          <Table columns={columns} data={data} />
+        </div>
+      </div>
     </div>
   );
 };

@@ -1,0 +1,36 @@
+.aup--container,
+.aup--list__container,
+.aup--presidium__container {
+  display: flex;
+  flex-direction: column;
+}
+
+.aup--container {
+  margin-top: 4rem;
+}
+.aup--list__container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+}
+.aup--presidium__container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+  margin-top: 4rem;
+}
+
+.aup--list__title,
+.aup--presidium__title {
+  text-align: left;
+  font-size: 4rem;
+}
+
+.aup--list {
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  font-size: 1.5rem;
+  margin-top: 4rem;
+  list-style: circle;
+  padding: 2rem;
+}

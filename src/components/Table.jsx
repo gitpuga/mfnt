@@ -1,5 +1,6 @@
 import React from "react";
 import { useTable, useSortBy } from "react-table";
+import { FaArrowUp, FaArrowDown } from "react-icons/fa";
 import "../styles/Table.css";
 
 const Table = ({ columns, data }) => {
@@ -13,28 +14,26 @@ const Table = ({ columns, data }) => {
     );
 
   return (
-    <table
-      {...getTableProps()}
-    //   style={{ border: "solid 1px blue", width: "100%" }}
-      className="table"
-    >
+    <table {...getTableProps()} className="table">
       <thead>
         {headerGroups.map((headerGroup) => (
           <tr {...headerGroup.getHeaderGroupProps()}>
             {headerGroup.headers.map((column) => (
               <th
                 {...column.getHeaderProps(column.getSortByToggleProps())}
-                // style={{
-                //   borderBottom: "solid 3px red",
-                //   background: "aliceblue",
-                //   color: "black",
-                //   fontWeight: "bold",
-                //   cursor: "pointer",
-                // }}
+                className="table--cell__header"
               >
                 {column.render("Header")}
                 <span>
-                  {column.isSorted ? (column.isSortedDesc ? " 🔽" : " 🔼") : ""}
+                  {column.isSorted ? (
+                    column.isSortedDesc ? (
+                      <FaArrowDown className="table--arrow" />
+                    ) : (
+                      <FaArrowUp className="table--arrow" />
+                    )
+                  ) : (
+                    ""
+                  )}
                 </span>
               </th>
             ))}
@@ -48,14 +47,7 @@ const Table = ({ columns, data }) => {
             <tr {...row.getRowProps()}>
               {row.cells.map((cell) => {
                 return (
-                  <td
-                    {...cell.getCellProps()}
-                    // style={{
-                    //   padding: "10px",
-                    //   border: "solid 1px gray",
-                    //   background: "papayawhip",
-                    // }}
-                  >
+                  <td {...cell.getCellProps()} className="table--cell">
                     {cell.render("Cell")}
                   </td>
                 );
