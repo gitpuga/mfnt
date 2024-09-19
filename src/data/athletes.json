@@ -1,0 +1,1171 @@
+{
+  "women": [
+    {
+      "place": 1,
+      "name": "Тайлакова Мария",
+      "birthYear": 2001,
+      "rating": 2205
+    },
+    {
+      "place": 2,
+      "name": "Носкова Яна Сергеевна",
+      "birthYear": 1994,
+      "rating": 2121
+    },
+    {
+      "place": 3,
+      "name": "Воробьёва Ольга Валерьевна",
+      "birthYear": 1990,
+      "rating": 2075
+    },
+    {
+      "place": 4,
+      "name": "Фетюхина Маргарита Владимировна",
+      "birthYear": 1988,
+      "rating": 1998
+    },
+    {
+      "place": 5,
+      "name": "Прохорова Юлия Александровна",
+      "birthYear": 1987,
+      "rating": 1996
+    },
+    {
+      "place": 6,
+      "name": "Тихомирова Анна Валерьевна",
+      "birthYear": 1984,
+      "rating": 1864
+    },
+    {
+      "place": 7,
+      "name": "Панфилова Мария Сергеевна",
+      "birthYear": 2005,
+      "rating": 1841
+    },
+    {
+      "place": 8,
+      "name": "Шабанова Анастасия",
+      "birthYear": 2002,
+      "rating": 1809
+    },
+    {
+      "place": 9,
+      "name": "Рязанова Анна Валерьевна",
+      "birthYear": 1986,
+      "rating": 1801
+    },
+    {
+      "place": 10,
+      "name": "Заварыкина Алина Сергеевна",
+      "birthYear": 2004,
+      "rating": 1704
+    },
+    {
+      "place": 11,
+      "name": "Береснева Анастасия Алексеевна",
+      "birthYear": 2005,
+      "rating": 1662
+    },
+    {
+      "place": 12,
+      "name": "Бокова Александра Андреевна",
+      "birthYear": 2009,
+      "rating": 1590
+    },
+    {
+      "place": 13,
+      "name": "Малинина Наталья Сергеевна",
+      "birthYear": 2002,
+      "rating": 1490
+    },
+    {
+      "place": 14,
+      "name": "Хурцилава Ксения Теймуразовна",
+      "birthYear": 2003,
+      "rating": 1434
+    },
+    {
+      "place": 15,
+      "name": "Логинова Диана Вадимовна",
+      "birthYear": 2003,
+      "rating": 1422
+    },
+    {
+      "place": 16,
+      "name": "Максимова Мария Максимовна",
+      "birthYear": 2010,
+      "rating": 1344
+    },
+    {
+      "place": 17,
+      "name": "Голубева Анастасия",
+      "birthYear": 1992,
+      "rating": 1332
+    },
+    {
+      "place": 18,
+      "name": "Мельник Анастасия Константиновна",
+      "birthYear": 2006,
+      "rating": 1249
+    },
+    {
+      "place": 19,
+      "name": "Тарасова Мария Николаевна",
+      "birthYear": 2005,
+      "rating": 1199
+    },
+    {
+      "place": 20,
+      "name": "Дроздова Екатерина",
+      "birthYear": 2011,
+      "rating": 1096
+    },
+    {
+      "place": 21,
+      "name": "Дмитриенко Светлана Олеговна",
+      "birthYear": 2004,
+      "rating": 1091
+    },
+    {
+      "place": 22,
+      "name": "Широкова Виктория Алексеевна",
+      "birthYear": 2006,
+      "rating": 1082
+    },
+    {
+      "place": 23,
+      "name": "Пятерикова Анна Антоновна",
+      "birthYear": 2007,
+      "rating": 983
+    },
+    {
+      "place": 24,
+      "name": "Кудинова Валерия Викторовна",
+      "birthYear": 2002,
+      "rating": 939
+    },
+    {
+      "place": 25,
+      "name": "Сафина Камилла Маратовна",
+      "birthYear": 2005,
+      "rating": 931
+    },
+    {
+      "place": 26,
+      "name": "Савостьянова Екатерина Андреевна",
+      "birthYear": 2004,
+      "rating": 926
+    },
+    {
+      "place": 27,
+      "name": "Храмова Екатерина Игоревна",
+      "birthYear": 2010,
+      "rating": 905
+    },
+    {
+      "place": 28,
+      "name": "Чернова Юлия Сергеевна",
+      "birthYear": 2007,
+      "rating": 904
+    },
+    {
+      "place": 29,
+      "name": "Моисеева Галина Дмитриевна",
+      "birthYear": 2002,
+      "rating": 841
+    },
+    {
+      "place": 30,
+      "name": "Сясько Мария Валентиновна",
+      "birthYear": 2008,
+      "rating": 794
+    },
+    { "place": 31, "name": "Заболева Ольга", "birthYear": 2009, "rating": 759 },
+    {
+      "place": 32,
+      "name": "Петриченко Александра Ивановна",
+      "birthYear": 2009,
+      "rating": 752
+    },
+    {
+      "place": 33,
+      "name": "Романчикова Полина Александровна",
+      "birthYear": 2010,
+      "rating": 750
+    },
+    {
+      "place": 34,
+      "name": "Кряжева Нелли Александровна",
+      "birthYear": 2008,
+      "rating": 738
+    },
+    {
+      "place": 35,
+      "name": "Косцова Ульяна Витальевна",
+      "birthYear": 2008,
+      "rating": 736
+    },
+    {
+      "place": 36,
+      "name": "Чимина Галина Максимовна",
+      "birthYear": 2003,
+      "rating": 713
+    },
+    {
+      "place": 37,
+      "name": "Лёвочкина Анна Юрьевна",
+      "birthYear": 2005,
+      "rating": 692
+    },
+    {
+      "place": 38,
+      "name": "Юницкая Мария Игоревна",
+      "birthYear": 2009,
+      "rating": 659
+    },
+    {
+      "place": 39,
+      "name": "Макурина Анастасия Александровна",
+      "birthYear": 2003,
+      "rating": 635
+    },
+    {
+      "place": 40,
+      "name": "Гергерт Олеся Дмитриевна",
+      "birthYear": 2004,
+      "rating": 630
+    },
+    {
+      "place": 41,
+      "name": "Стулова Яна Евгеньевна",
+      "birthYear": 2006,
+      "rating": 610
+    },
+    {
+      "place": 42,
+      "name": "Куксина Виталия",
+      "birthYear": 2002,
+      "rating": 594
+    },
+    { "place": 43, "name": "Дощатова Мария", "birthYear": 2009, "rating": 581 },
+    {
+      "place": 44,
+      "name": "Вотинцева Таисия Андреевна",
+      "birthYear": 2007,
+      "rating": 574
+    },
+    { "place": 45, "name": "Тузова Елена", "birthYear": 2001, "rating": 561 },
+    {
+      "place": 46,
+      "name": "Нурбекова Надима Самадовна",
+      "birthYear": 1999,
+      "rating": 559
+    },
+    {
+      "place": 47,
+      "name": "Романчикова Марина Александровна",
+      "birthYear": 2010,
+      "rating": 518
+    },
+    {
+      "place": 48,
+      "name": "Кондратьева Софья Ильинична",
+      "birthYear": 2009,
+      "rating": 511
+    },
+    {
+      "place": 49,
+      "name": "Скачкова Ирина Александровна",
+      "birthYear": 1988,
+      "rating": 510
+    },
+    {
+      "place": 50,
+      "name": "Хоченкова Дарья Вадимовна",
+      "birthYear": 2010,
+      "rating": 493
+    },
+    {
+      "place": 51,
+      "name": "Пчелкина Софья Алексеевна",
+      "birthYear": 2009,
+      "rating": 491
+    },
+    {
+      "place": 52,
+      "name": "Гришанова Арина Сергеевна",
+      "birthYear": 2006,
+      "rating": 474
+    },
+    {
+      "place": 53,
+      "name": "Кондратенко Вероника Александровна",
+      "birthYear": 2012,
+      "rating": 468
+    },
+    {
+      "place": 54,
+      "name": "Максимова Полина Максимовна",
+      "birthYear": 2012,
+      "rating": 458
+    },
+    {
+      "place": 55,
+      "name": "Кильдюшкина Елизавета Андреевна",
+      "birthYear": 2010,
+      "rating": 442
+    },
+    { "place": 56, "name": "Редина Арина", "birthYear": 2006, "rating": 434 },
+    {
+      "place": 57,
+      "name": "Тарарыкина Злата Олеговна",
+      "birthYear": 2009,
+      "rating": 429
+    },
+    {
+      "place": 58,
+      "name": "Харитонова Татьяна Алексеевна",
+      "birthYear": 2008,
+      "rating": 427
+    },
+    {
+      "place": 59,
+      "name": "Логачева Анна Андреевна",
+      "birthYear": 2007,
+      "rating": 419
+    },
+    {
+      "place": 60,
+      "name": "Ферапонтова Софья Денисовна",
+      "birthYear": 2010,
+      "rating": 404
+    },
+    {
+      "place": 61,
+      "name": "Миллионкова Мария Ильинична",
+      "birthYear": 2004,
+      "rating": 391
+    },
+    {
+      "place": 62,
+      "name": "Сорокина Мария Алексеевна",
+      "birthYear": 2011,
+      "rating": 380
+    },
+    {
+      "place": 63,
+      "name": "Юрманова Елена Игоревна",
+      "birthYear": 2008,
+      "rating": 380
+    },
+    {
+      "place": 64,
+      "name": "Плиева Алана Иналовна",
+      "birthYear": 2011,
+      "rating": 360
+    },
+    {
+      "place": 65,
+      "name": "Вардапетян Мария Нориковна",
+      "birthYear": 2006,
+      "rating": 335
+    },
+    {
+      "place": 66,
+      "name": "Казаковская Татьяна Кирилловна",
+      "birthYear": 2010,
+      "rating": 305
+    },
+    {
+      "place": 67,
+      "name": "Волкова Анастасия Александровна",
+      "birthYear": 2009,
+      "rating": 291
+    },
+    {
+      "place": 68,
+      "name": "Шулимова Александра Евгеньевна",
+      "birthYear": 2013,
+      "rating": 286
+    },
+    {
+      "place": 69,
+      "name": "Булгакова Анна Александровна",
+      "birthYear": 2005,
+      "rating": 268
+    },
+    {
+      "place": 70,
+      "name": "Шуткова Анастасия Алексеевна",
+      "birthYear": 2007,
+      "rating": 264
+    },
+    {
+      "place": 71,
+      "name": "Лопатко Татьяна Владимировна",
+      "birthYear": 2003,
+      "rating": 245
+    },
+    {
+      "place": 72,
+      "name": "Ломакина Анастасия Александровна",
+      "birthYear": 2008,
+      "rating": 238
+    },
+    {
+      "place": 73,
+      "name": "Лёзова Александра Александровна",
+      "birthYear": 2011,
+      "rating": 236
+    },
+    {
+      "place": 74,
+      "name": "Карасева Ксения Андреевна",
+      "birthYear": 2007,
+      "rating": 223
+    },
+    {
+      "place": 75,
+      "name": "Волкова Наталья Всеволодовна",
+      "birthYear": 2010,
+      "rating": 220
+    },
+    {
+      "place": 76,
+      "name": "Манжирова Анастасия Александровна",
+      "birthYear": 2009,
+      "rating": 210
+    },
+    {
+      "place": 77,
+      "name": "Балацкова Мария Павловна",
+      "birthYear": 2009,
+      "rating": 204
+    },
+    {
+      "place": 78,
+      "name": "Еремина Таисия Александровна",
+      "birthYear": 2011,
+      "rating": 203
+    },
+    {
+      "place": 79,
+      "name": "Тутевич Анастасия Андреевна",
+      "birthYear": 2008,
+      "rating": 202
+    },
+    {
+      "place": 80,
+      "name": "Фазлыева Нелли Радиковна",
+      "birthYear": 2011,
+      "rating": 196
+    },
+    {
+      "place": 81,
+      "name": "Юницкая Ольга Игоревна",
+      "birthYear": 2013,
+      "rating": 195
+    },
+    { "place": 82, "name": "Конкина Мария", "birthYear": 2012, "rating": 194 },
+    {
+      "place": 83,
+      "name": "Статкевич Елизавета Валерьевна",
+      "birthYear": 2009,
+      "rating": 192
+    },
+    {
+      "place": 84,
+      "name": "Романова Мария Львовна",
+      "birthYear": 2010,
+      "rating": 187
+    },
+    {
+      "place": 85,
+      "name": "Поварова Вера Евгеньевна",
+      "birthYear": 2008,
+      "rating": 185
+    },
+    {
+      "place": 86,
+      "name": "Тутевич Алиса Андреевна",
+      "birthYear": 2011,
+      "rating": 178
+    },
+    {
+      "place": 87,
+      "name": "Текутьева Злата Михайловна",
+      "birthYear": 2009,
+      "rating": 175
+    },
+    {
+      "place": 88,
+      "name": "Гольдштейн Мария Дмитриевна",
+      "birthYear": 2012,
+      "rating": 175
+    },
+    {
+      "place": 89,
+      "name": "Попова Елизавета Михайловна",
+      "birthYear": 2007,
+      "rating": 166
+    },
+    {
+      "place": 90,
+      "name": "Белозерова Антонина Николаевна",
+      "birthYear": 2005,
+      "rating": 165
+    },
+    {
+      "place": 91,
+      "name": "Богомолова Александра Альбертовна",
+      "birthYear": 2011,
+      "rating": 158
+    },
+    {
+      "place": 92,
+      "name": "Бочарникова Арина Валерьевна",
+      "birthYear": 2009,
+      "rating": 157
+    },
+    {
+      "place": 93,
+      "name": "Афанасьева Елизавета",
+      "birthYear": 2011,
+      "rating": 153
+    },
+    {
+      "place": 94,
+      "name": "Андриишин Елизавета",
+      "birthYear": 2012,
+      "rating": 140
+    },
+    {
+      "place": 95,
+      "name": "Родина Наталия Алексеевна",
+      "birthYear": 2010,
+      "rating": 137
+    },
+    {
+      "place": 96,
+      "name": "Левченко Алина Рашидовна",
+      "birthYear": 2003,
+      "rating": 127
+    },
+    {
+      "place": 97,
+      "name": "Воротникова Вероника Владимировна",
+      "birthYear": 2007,
+      "rating": 123
+    },
+    {
+      "place": 98,
+      "name": "Кириллова Мария",
+      "birthYear": 2007,
+      "rating": 122
+    },
+    {
+      "place": 99,
+      "name": "Изумрудова Анастасия Денисовна",
+      "birthYear": 2010,
+      "rating": 118
+    },
+    {
+      "place": 100,
+      "name": "Ермакова Ольга Николаевна",
+      "birthYear": 2010,
+      "rating": 114
+    }
+  ],
+  "men": [
+    {
+      "place": 1,
+      "name": "Скачков Кирилл Сергеевич",
+      "birthYear": 1987,
+      "rating": 1992
+    },
+    {
+      "place": 2,
+      "name": "Кацман Лев Вадимович",
+      "birthYear": 2001,
+      "rating": 1951
+    },
+    {
+      "place": 3,
+      "name": "Макаров Владислав Александрович (Vladusik04)",
+      "birthYear": 2004,
+      "rating": 1910
+    },
+    {
+      "place": 4,
+      "name": "Тихонов Евгений Андреевич (Tiho)",
+      "birthYear": 2005,
+      "rating": 1895
+    },
+    { "place": 5, "name": "Иванов Глеб", "birthYear": 2002, "rating": 1887 },
+    {
+      "place": 6,
+      "name": "Виноградов Дмитрий Алексеевич (Dima555)",
+      "birthYear": 2005,
+      "rating": 1872
+    },
+    {
+      "place": 7,
+      "name": "Ливенцов Алексей Вячеславович (Hristofor)",
+      "birthYear": 1981,
+      "rating": 1815
+    },
+    {
+      "place": 8,
+      "name": "Двойников Артём Игоревич (Artyomdvo...)",
+      "birthYear": 2000,
+      "rating": 1812
+    },
+    {
+      "place": 9,
+      "name": "Абусев Артур (Arturabusev)",
+      "birthYear": 1999,
+      "rating": 1795
+    },
+    {
+      "place": 10,
+      "name": "Мошков Никита Алексеевич (Nikita01)",
+      "birthYear": 2001,
+      "rating": 1748
+    },
+    {
+      "place": 11,
+      "name": "Мерзликин Тарас Сергеевич (taras25)",
+      "birthYear": 1991,
+      "rating": 1728
+    },
+    {
+      "place": 12,
+      "name": "Боков Максим Андреевич (Bokibo)",
+      "birthYear": 2002,
+      "rating": 1667
+    },
+    {
+      "place": 13,
+      "name": "Кривошеев Вячеслав Александрович (Slavik87)",
+      "birthYear": 1987,
+      "rating": 1652
+    },
+    {
+      "place": 14,
+      "name": "Раднаев Батор Баирович (RadnaevB)",
+      "birthYear": 2006,
+      "rating": 1641
+    },
+    {
+      "place": 15,
+      "name": "Пульный Павел Павлович (PashaPulnyy)",
+      "birthYear": 1991,
+      "rating": 1641
+    },
+    {
+      "place": 16,
+      "name": "Ярушин Никита Евгеньевич (Nikitaya)",
+      "birthYear": 1998,
+      "rating": 1617
+    },
+    {
+      "place": 17,
+      "name": "Медведев Сергей Александрович (Medvedko)",
+      "birthYear": 1982,
+      "rating": 1568
+    },
+    {
+      "place": 18,
+      "name": "Тихонов Артём Андреевич (Tikhonov.Art)",
+      "birthYear": 2001,
+      "rating": 1544
+    },
+    {
+      "place": 19,
+      "name": "Овчинников Егор (Egor2122)",
+      "birthYear": 2000,
+      "rating": 1530
+    },
+    {
+      "place": 20,
+      "name": "Анохин Илья Витальевич (Ilya1705)",
+      "birthYear": 2003,
+      "rating": 1424
+    },
+    {
+      "place": 21,
+      "name": "Шмырёв Максим Витальевич (max1434)",
+      "birthYear": 1971,
+      "rating": 1410
+    },
+    {
+      "place": 22,
+      "name": "Поляков Василий Григорьевич (+79092692873)",
+      "birthYear": 2005,
+      "rating": 1399
+    },
+    {
+      "place": 23,
+      "name": "Изумрудов Денис Денисович",
+      "birthYear": 2004,
+      "rating": 1359
+    },
+    {
+      "place": 24,
+      "name": "Анисимов Антон Андреевич (Mr.Master)",
+      "birthYear": 1996,
+      "rating": 1355
+    },
+    {
+      "place": 25,
+      "name": "Голованов Станислав (Infiniti)",
+      "birthYear": 1988,
+      "rating": 1353
+    },
+    {
+      "place": 26,
+      "name": "Сёмин Артём Сергеевич (SeminArtem)",
+      "birthYear": 1998,
+      "rating": 1345
+    },
+    {
+      "place": 27,
+      "name": "Газарян Сергей Рудольфович (Gazarian)",
+      "birthYear": 2006,
+      "rating": 1334
+    },
+    {
+      "place": 28,
+      "name": "Содыль Максим Евгеньевич (Максим Со...)",
+      "birthYear": 2002,
+      "rating": 1308
+    },
+    {
+      "place": 29,
+      "name": "Тешабоев Кутбидилло Рахимжон Оглы",
+      "birthYear": 1998,
+      "rating": 1305
+    },
+    {
+      "place": 30,
+      "name": "Шамин Илья Сергеевич (Shamin)",
+      "birthYear": 1993,
+      "rating": 1276
+    },
+    {
+      "place": 31,
+      "name": "Попов Алексей Алексеевич (popov820)",
+      "birthYear": 2001,
+      "rating": 1267
+    },
+    {
+      "place": 32,
+      "name": "Туйчиев Рамис Бахтиерович (Ramis333)",
+      "birthYear": 2006,
+      "rating": 1197
+    },
+    {
+      "place": 33,
+      "name": "Бредников Михаил Валерьевич (Misha2004)",
+      "birthYear": 2004,
+      "rating": 1151
+    },
+    {
+      "place": 34,
+      "name": "Курбасов Иван Михайлович (Kurbasov)",
+      "birthYear": 2006,
+      "rating": 1147
+    },
+    {
+      "place": 35,
+      "name": "Цветков Андрей Данилович (ANDREY23)",
+      "birthYear": 2000,
+      "rating": 1146
+    },
+    {
+      "place": 36,
+      "name": "Желубенков Александр Евгеньевич (Topspin26)",
+      "birthYear": 1993,
+      "rating": 1122
+    },
+    {
+      "place": 37,
+      "name": "Миронов Егор Андреевич (mnatasha2004)",
+      "birthYear": 2003,
+      "rating": 1115
+    },
+    {
+      "place": 38,
+      "name": "Кобзев Олег Олегович (Oleg0087)",
+      "birthYear": 2007,
+      "rating": 1097
+    },
+    {
+      "place": 39,
+      "name": "Миронов Артем Андреевич (Mir2006Artem)",
+      "birthYear": 2006,
+      "rating": 1067
+    },
+    {
+      "place": 40,
+      "name": "Курашков Павел Сергеевич (Kurashkov13)",
+      "birthYear": 2008,
+      "rating": 1024
+    },
+    {
+      "place": 41,
+      "name": "Мельников Владислав Александрович (baragon8)",
+      "birthYear": 1996,
+      "rating": 1022
+    },
+    {
+      "place": 42,
+      "name": "Сташковский Глеб Олегович (25Gleb25)",
+      "birthYear": 2003,
+      "rating": 1006
+    },
+    {
+      "place": 43,
+      "name": "Камардин Александр Валерьевич (Kamardin)",
+      "birthYear": 1996,
+      "rating": 988
+    },
+    {
+      "place": 44,
+      "name": "Лазарев Михаил Вячеславович (M1shanya207)",
+      "birthYear": 2007,
+      "rating": 969
+    },
+    {
+      "place": 45,
+      "name": "Федоренко Александр Игоревич (FedorenkoA)",
+      "birthYear": 2007,
+      "rating": 960
+    },
+    {
+      "place": 46,
+      "name": "Гришенин Денис Александрович (densportsmen)",
+      "birthYear": 1992,
+      "rating": 959
+    },
+    {
+      "place": 47,
+      "name": "Иванов Леонид Владимирович",
+      "birthYear": 1973,
+      "rating": 950
+    },
+    {
+      "place": 48,
+      "name": "Семенов Богдан (Bogdansem)",
+      "birthYear": 2008,
+      "rating": 940
+    },
+    {
+      "place": 49,
+      "name": "Митрофанов Илья Павлович (gouz dog ...)",
+      "birthYear": 1992,
+      "rating": 938
+    },
+    {
+      "place": 50,
+      "name": "Цыбикдоржиев Дмитрий Владимирович (Sparring)",
+      "birthYear": 1984,
+      "rating": 932
+    },
+    {
+      "place": 51,
+      "name": "Кривошапкин Изот Геннадьевич (Alexanderpes)",
+      "birthYear": 2009,
+      "rating": 926
+    },
+    {
+      "place": 52,
+      "name": "Торгов Максим Михайлович (Torgovmaks)",
+      "birthYear": 1988,
+      "rating": 894
+    },
+    {
+      "place": 53,
+      "name": "Виноградов Иван Алексеевич",
+      "birthYear": 2008,
+      "rating": 852
+    },
+    {
+      "place": 54,
+      "name": "Сапегин Андрей Александрович (Sapegin86)",
+      "birthYear": 1986,
+      "rating": 824
+    },
+    {
+      "place": 55,
+      "name": "Ширшов Александр Евгеньевич (Александр...)",
+      "birthYear": 1999,
+      "rating": 804
+    },
+    {
+      "place": 56,
+      "name": "Подколзин Даниил Александрович (Limb0)",
+      "birthYear": 2008,
+      "rating": 801
+    },
+    {
+      "place": 57,
+      "name": "Аристов Александр Иванович (142351Aa)",
+      "birthYear": 2006,
+      "rating": 800
+    },
+    {
+      "place": 58,
+      "name": "Петрунин Федор Денисович (opssenioriki)",
+      "birthYear": 2004,
+      "rating": 793
+    },
+    {
+      "place": 59,
+      "name": "Лебедев Богдан Дмитриевич (bogdan2007)",
+      "birthYear": 2007,
+      "rating": 782
+    },
+    {
+      "place": 60,
+      "name": "Королев Семен Александрович (lionKing)",
+      "birthYear": 1989,
+      "rating": 766
+    },
+    {
+      "place": 61,
+      "name": "Романовский Павел Андреевич (Yachont)",
+      "birthYear": 2009,
+      "rating": 764
+    },
+    {
+      "place": 62,
+      "name": "Савельев Алексей Игоревич (AlexSavelev)",
+      "birthYear": 2000,
+      "rating": 754
+    },
+    {
+      "place": 63,
+      "name": "Хурцилава Антон Теймуразович (Toxa1997)",
+      "birthYear": 1997,
+      "rating": 750
+    },
+    {
+      "place": 64,
+      "name": "Бурдин Александр Сергеевич (Mrnagi)",
+      "birthYear": 2000,
+      "rating": 741
+    },
+    {
+      "place": 65,
+      "name": "Слащилин Алексей Евгеньевич (alex.1999)",
+      "birthYear": 1999,
+      "rating": 732
+    },
+    {
+      "place": 66,
+      "name": "Кочетков Константин Павлович (KONSTANTIN1)",
+      "birthYear": 2003,
+      "rating": 680
+    },
+    {
+      "place": 67,
+      "name": "Дрындин Евгений Николаевич (coolmad)",
+      "birthYear": 1987,
+      "rating": 663
+    },
+    {
+      "place": 68,
+      "name": "Дулаев Артем Георгиевич (Tema Ball)",
+      "birthYear": 2010,
+      "rating": 652
+    },
+    {
+      "place": 69,
+      "name": "Рыженков Павел Романович (Рыжик)",
+      "birthYear": 2009,
+      "rating": 634
+    },
+    { "place": 70, "name": "Шакин Илья", "birthYear": 2007, "rating": 634 },
+    {
+      "place": 71,
+      "name": "Аристов Александр Валерьевич (arist)",
+      "birthYear": 1984,
+      "rating": 633
+    },
+    {
+      "place": 72,
+      "name": "Попов Павел Александрович (Попов Павел)",
+      "birthYear": 2007,
+      "rating": 626
+    },
+    {
+      "place": 73,
+      "name": "Рассказов Максим Владиславович (maksim5555)",
+      "birthYear": 2004,
+      "rating": 617
+    },
+    {
+      "place": 74,
+      "name": "Крохин Вадим Викторович (Vadim Kroh)",
+      "birthYear": 2001,
+      "rating": 616
+    },
+    {
+      "place": 75,
+      "name": "Фридман Леонид Семенович (fridman2010)",
+      "birthYear": 2010,
+      "rating": 599
+    },
+    {
+      "place": 76,
+      "name": "Рожков Даниил Владимирович (xxtrust)",
+      "birthYear": 1999,
+      "rating": 586
+    },
+    {
+      "place": 77,
+      "name": "Осташов Артем (TEMONTII)",
+      "birthYear": 2006,
+      "rating": 563
+    },
+    {
+      "place": 78,
+      "name": "Наумов Максим (Bazzinga)",
+      "birthYear": 2006,
+      "rating": 555
+    },
+    {
+      "place": 79,
+      "name": "Кочетков Алексей Алексеевич (guls)",
+      "birthYear": 2004,
+      "rating": 551
+    },
+    {
+      "place": 80,
+      "name": "Орлов Степан Владимирович (Orlov_stepan)",
+      "birthYear": 2009,
+      "rating": 547
+    },
+    {
+      "place": 81,
+      "name": "Клочко Никита Игоревич (Nikita2712)",
+      "birthYear": 2009,
+      "rating": 538
+    },
+    {
+      "place": 82,
+      "name": "Кудрявцев Алексей Михайлович (Alexsey127)",
+      "birthYear": 2001,
+      "rating": 524
+    },
+    {
+      "place": 83,
+      "name": "Гусалов Матвей Александрович (Gusalov)",
+      "birthYear": 2009,
+      "rating": 509
+    },
+    {
+      "place": 84,
+      "name": "Виниченко Никита Геннадьевич (Lida80.80)",
+      "birthYear": 2009,
+      "rating": 507
+    },
+    {
+      "place": 85,
+      "name": "Сидельников Евгений Викторович (Jenya11)",
+      "birthYear": 2011,
+      "rating": 505
+    },
+    {
+      "place": 86,
+      "name": "Торгов Артем Михайлович (art.torgov)",
+      "birthYear": 2006,
+      "rating": 498
+    },
+    {
+      "place": 87,
+      "name": "Осипов Дмитрий Алексеевич (Ra89)",
+      "birthYear": 1989,
+      "rating": 494
+    },
+    {
+      "place": 88,
+      "name": "Обоянцев Владимир Николаевич (Vova1)",
+      "birthYear": 2008,
+      "rating": 494
+    },
+    {
+      "place": 89,
+      "name": "Чернов Максим Андреевич (maxim249g)",
+      "birthYear": 1987,
+      "rating": 492
+    },
+    {
+      "place": 90,
+      "name": "Савкин Владислав Михайлович (misavkin)",
+      "birthYear": 2009,
+      "rating": 492
+    },
+    {
+      "place": 91,
+      "name": "Алаев Иван (IvanIvan)",
+      "birthYear": 1988,
+      "rating": 487
+    },
+    {
+      "place": 92,
+      "name": "Чимин Егор Максимович (ЕгорЧик)",
+      "birthYear": 2009,
+      "rating": 474
+    },
+    {
+      "place": 93,
+      "name": "Куликов Михаил Андреевич (MishaKulikov)",
+      "birthYear": 2008,
+      "rating": 467
+    },
+    {
+      "place": 94,
+      "name": "Мальцев Александр (pluxury)",
+      "birthYear": 2001,
+      "rating": 448
+    },
+    {
+      "place": 95,
+      "name": "Попов Борис Леонидович (Бориc)",
+      "birthYear": 2004,
+      "rating": 439
+    },
+    {
+      "place": 96,
+      "name": "Махмутов Тимур Рушанович (Runy)",
+      "birthYear": 2010,
+      "rating": 439
+    },
+    {
+      "place": 97,
+      "name": "Цыганков Егор Николаевич (egorts)",
+      "birthYear": 2008,
+      "rating": 427
+    },
+    {
+      "place": 98,
+      "name": "Кример Энри-Ашер Игоревич (дэм)",
+      "birthYear": 2010,
+      "rating": 422
+    },
+    {
+      "place": 99,
+      "name": "Толмачев Иван Станиславович (tolmachev19)",
+      "birthYear": 1994,
+      "rating": 404
+    },
+    {
+      "place": 100,
+      "name": "Ревин Евгений Евгеньевич",
+      "birthYear": 1987,
+      "rating": 403
+    }
+  ]
+}

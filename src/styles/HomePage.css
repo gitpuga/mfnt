@@ -17,15 +17,15 @@
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../../public/media/11mos2017-big.jpg");
   background-size: cover;
-  border: 1px solid #2d2d2d;
+  border: 1px solid var(--border-color);
 }
 .hp--title,
 .hp--title__text {
+  color: #f7f7f8;
   text-align: center;
-  text-shadow: 0 8px 16px rgba(0, 0, 0, 1);
+  text-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 .hp--title {
-  color: #f7f7f8;
   text-transform: uppercase;
   font-weight: 900;
   font-size: 8rem;
@@ -39,13 +39,15 @@
 }
 
 .hp--button__container {
-  width: 80%;
   display: flex;
-  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 80%;
   margin-top: 2rem;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 2rem;
+  gap: 2rem;
 }
 .hp--button__text {
   font-weight: bold;
@@ -75,19 +77,19 @@
 .hp--button__where,
 .hp--button__teachers,
 .hp--button__charts {
+  color: #f7f7f8;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   background-size: cover;
   border-radius: 16px;
-  max-width: 30rem;
+  width: 30rem;
   height: 20rem;
   padding-top: 4rem;
   padding-bottom: 4rem;
   padding-left: 2rem;
   padding-right: 2rem;
-  text-shadow: 0 8px 16px rgba(0, 0, 0, 1);
-  border: 1px solid #2d2d2d;
+  border: 1px solid var(--border-color);
 }
 .hp--button__news:hover,
 .hp--button__where:hover,
@@ -95,6 +97,20 @@
 .hp--button__charts:hover {
   transform: translateY(-2px);
   transition: 0.2s;
-  box-shadow: 0 8px 16px rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
   cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .hp--button__container {
+    flex-direction: column; /* При малом экране карточки располагаются друг под другом */
+    align-items: center;
+  }
+
+  .hp--button__news,
+  .hp--button__where,
+  .hp--button__teachers,
+  .hp--button__charts {
+    max-width: 80%; /* Ширина карточки занимает 100% ширины контейнера */
+  }
 }

@@ -1,40 +1,32 @@
-.aup--container,
-.aup--list__container,
-.aup--presidium__container {
+.cap--container {
   display: flex;
   flex-direction: column;
 }
 
-.aup--container {
-  margin-top: 4vh;
-}
-.aup--list__container {
+.cap--container {
   margin-left: auto;
   margin-right: auto;
   max-width: 80%;
-}
-.aup--presidium__container {
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-  margin-top: 4rem;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
 }
 
-.aup--list__title,
-.aup--presidium__title {
+.cap--list__title {
   font-weight: 900;
   font-size: 4rem;
   text-transform: uppercase;
 }
-
-.aup--list {
+.cap--list__title-text {
+  font-size: 2rem;
+}
+.cap--list {
   border: 1px solid var(--border-color);
   border-radius: 16px;
   font-size: 1.5rem;
   margin-top: 4rem;
   padding: 1rem;
 }
-.aup--list__line {
+.cap--list__line {
   font-weight: 700;
   margin-left: 1.75rem;
 }

@@ -3,7 +3,7 @@ import React from "react";
 const MediaPage = () => {
   return (
     <div>
-      <div></div>
+      <h1>Мультимедиа</h1>
     </div>
   );
 };

@@ -1,31 +1,22 @@
-.table--container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 10rem;
-}
-
 .table,
 .table--cell,
 .table--cell__header {
   border: solid 1px var(--border-color);
 }
 .table {
-  width: 100%;
   border-radius: 16px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
 }
 .table--cell__header {
   font-weight: bold;
   font-size: 1.2rem;
   cursor: pointer;
   padding: 2rem;
-  border-radius: 16px;
+  border-radius: 14px;
 }
 .table--cell {
   padding: 2rem;
-  border-radius: 8px;
+  border-radius: 14px;
 }
 .table--arrow {
   margin-left: 0.5rem;
