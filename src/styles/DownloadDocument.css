@@ -1,0 +1,33 @@
+.dd--button {
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  text-decoration: none;
+  max-width: fit-content;
+}
+.dd--button:hover {
+  transform: translateY(-1px);
+  transition: 0.2s;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.dd--button__text {
+  color: var(--text-color);
+  transition: color 0.2s;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.dd--button__icon {
+  color: var(--text-color);
+  margin-right: 0.5rem;
+  transition: color 0.2s;
+}
+
+.dd--button__text:hover {
+  color: var(--hover-text-color);
+  text-decoration: underline;
+}

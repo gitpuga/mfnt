@@ -1,0 +1,36 @@
+.dp--container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 4vh;
+}
+
+.dp--category__container {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2vh;
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 20px;
+  width: 80%;
+}
+
+.dp--category__title {
+  text-align: left;
+  margin-bottom: 2vh;
+  font-weight: 900;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+.dp--title {
+  text-align: left;
+  margin-bottom: 4vh;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 900;
+  font-size: 4rem;
+  text-transform: uppercase;
+  width: 80%;
+}

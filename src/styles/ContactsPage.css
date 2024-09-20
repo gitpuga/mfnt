@@ -1,0 +1,76 @@
+.cnp--container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 4vh;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cnp--title {
+  font-weight: 900;
+  font-size: 4rem;
+  text-transform: uppercase;
+}
+.cnp--title__text {
+  font-size: 2rem;
+}
+
+.cnp--contacts__container {
+  margin-top: 4vh;
+}
+
+.cnp--email {
+  font-size: 2rem;
+}
+
+.cnp--card__container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  justify-content: space-between;
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  column-gap: 5rem;
+  row-gap: 2rem;
+}
+.cnp--card__text {
+  font-size: 3rem;
+  font-weight: 900;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+}
+.cnp--card__facebook,
+.cnp--card__vkontakte,
+.cnp--card__telegram,
+.cnp--card__youtube,
+.cnp--card__instagram {
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  height: 10rem;
+  width: 20rem;
+  justify-content: center;
+}
+
+.cnp--card__facebook {
+  background-color: #4867aa;
+}
+.cnp--card__vkontakte {
+  background-color: #0077ff;
+}
+.cnp--card__telegram {
+  background: #1c92d2;
+  background: linear-gradient(to right, #1c92d2, #f2fcfe);
+}
+.cnp--card__youtube {
+  background-color: #ff0000;
+}
+.cnp--card__instagram {
+  background: url("../../public/media/312905-P8IMVG-287.jpg");
+  background-size: cover;
+}

@@ -38,3 +38,37 @@
   font-weight: 700;
   margin-left: 1.75rem;
 }
+
+.aup--card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  max-width: 20rem;
+  padding: 1rem;
+}
+.aup--card__container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  justify-content: space-between;
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  column-gap: 5rem;
+  row-gap: 2rem;
+}
+.aup--card__img {
+  border-radius: 8px;
+  max-height: 20rem;
+  object-fit: cover;
+}
+.aup--card__full-name {
+  margin-top: 1rem;
+  font-weight: 900;
+}
+.aup--card__job-title {
+  margin-top: 1rem;
+  font-weight: 700;
+}

@@ -32,10 +32,6 @@ const Header = () => {
           <h1 className="header-text">документы</h1>
         </Link>
 
-        <Link className="header-link" to="/media">
-          <h1 className="header-text">медиа</h1>
-        </Link>
-
         <Link className="header-link" to="/contacts">
           <h1 className="header-text">контакты</h1>
         </Link>

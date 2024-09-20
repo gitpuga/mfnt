@@ -9,7 +9,6 @@ import DocumentsPage from "./pages/DocumentsPage";
 import CalendarPage from "./pages/CalendarPage";
 import ChartsPage from "./pages/ChartsPage";
 import WhereToPlayPage from "./pages/WhereToPlayPage";
-import MediaPage from "./pages/MediaPage";
 import ContactsPage from "./pages/ContactsPage";
 import NotFoundPage from "./pages/NotFoundPage";
 
@@ -28,7 +27,6 @@ function App() {
               <Route path="/calendar" element={<CalendarPage />} />
               <Route path="/charts" element={<ChartsPage />} />
               <Route path="/where-to-play" element={<WhereToPlayPage />} />
-              <Route path="/media" element={<MediaPage />} />
               <Route path="/contacts" element={<ContactsPage />} />
             </Routes>
           </main>
